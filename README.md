@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sristi Gangwar</h1>
-<h3 align="center">Doing what what I like</h3>
+<h3 align="center">Doing what I like</h3>
+<img src = "https://github-readme-stats.vercel.app/api?username=taetae3012&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
